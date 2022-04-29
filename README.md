@@ -2,7 +2,7 @@
 |種族|陣型|終端|
 |---|---|---|
 |野獸|跳蛙|![](https://github.com/clalanliu/BattlegroundsClassics/blob/main/%E9%87%8E%E7%8D%B8/%E9%87%8E%E7%8D%B8_%E8%B7%B3%E8%9B%99_01.PNG)|
-|   |   |   |
+|海盜|飛行荷蘭人|四上將剛好，防卡住![](https://github.com/clalanliu/BattlegroundsClassics/blob/main/%E6%B5%B7%E7%9B%9C/%E6%B5%B7%E7%9B%9C_%E9%A3%9B%E8%A1%8C%E8%8D%B7%E8%98%AD%E4%BA%BA_01.PNG)|
 
 英雄
 |英雄|陣型|終端|
